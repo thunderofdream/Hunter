@@ -1,0 +1,15 @@
+escaper1:
+  accel_max: 1 #最大加速度
+  speed_max: 10 #最大速度
+  speed_min: 0  #最小速度
+  explore_size: 100  #探测范围
+  position: [40.0, 0.0] #初始位置
+  velocity: 0.0 #初始速度
+  accel: 0.0 #初始加速度
+  angle: 180 #初始方向
+  angle_velocity: 0.0 #初始角速度
+  bound_angle_velocity: [-3.1415926, 3.1415926]  # -π to π #角速度范围
+  default_position: [0, 0] #默认位置暂时不用
+  cn_name: "逃脱者"
+  color: [0, 0, 255]  # 蓝色
+  faded_color: [200, 200, 255]  # 淡蓝色

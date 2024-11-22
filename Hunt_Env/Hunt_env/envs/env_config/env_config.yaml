@@ -1,0 +1,6 @@
+Env_config:
+  TIMESCALE: 1
+  num_hunters: 1
+  num_escapers: 1
+  map_size: 200
+  max_steps: 100

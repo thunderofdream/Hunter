@@ -1,0 +1,16 @@
+hunter1:
+  accel_max: 1 #最大加速度
+  speed_max: 10 #最大速度
+  speed_min: 0  #最小速度
+  explore_size: 100  #探测范围
+  position: [-40.0, 0.0] #初始位置
+  velocity: 0.0 #初始速度
+  accel: 0.0 #初始加速度
+  angle: 0.0 #初始方向
+  angle_velocity: 0.0 #初始角速度
+  bound_angle_velocity: [-6.283185307179586, 6.283185307179586]  # -π to π #角速度范围
+  default_position: [0, 0] #默认位置暂时不用
+  cn_name: "猎手"
+  kill_range: 3  # 击杀范围
+  color: [255, 0, 0]  # 红色
+  faded_color: [255, 200, 200]  # 淡红色
